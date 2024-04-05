@@ -1,7 +1,5 @@
 # I369-Spring-2023
-## Performance Analytics Final Project
-
-This is a repository that contains the file that was used for my final project in Performance Analytics.
+## Performance Analytics Project
 
 Our goal was to analyze NFL Statistics from 2000-2023 in search of find the correlation between numbers of turnovers and wins along with if there was any home field advantage in the NFL.
 
